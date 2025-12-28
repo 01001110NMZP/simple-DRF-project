@@ -6,7 +6,9 @@ Disclaimer:
 
 you said to explain my way of doing stuff, I explain everything in the code via comments
 
-I did use AI for the entire rest_framework, BUT I learned what I was doing and now I have an idea how to remake it from scratch without the help of AI because of how clearly it explained everything to me, I use AI as a teacher, not a black box that does the things that I'm supposed to do
+before judging me of why I used AI, please read the paragraph below fully and then decide if I did the right thing
+
+I did use AI for the entire rest_framework, then asked why the AI did certain things in certrain lines, I learned from the explanations of what it was doing and now I have an idea how to remake the entire thing from scratch without any help of any sort of AI because of how clearly it explained everything to me, I use AI as a teacher for almost anything elementary, not a black box that does the things that I'm supposed to do
 
 I used AI for it because it was my first time dealing with rest_framework and I didnt know how to do it and the official doccumentation was terrible and confusing
 
