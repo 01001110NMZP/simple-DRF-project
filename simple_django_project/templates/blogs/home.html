@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% extends "blogs/base.html" %}
+
+    {% block content %}
+
+    <h1>Welcome to my first rest framework project</h1>
+
+    <a href="{% url 'blogs:api_GET_endpoint' %}">the GET endpoint of the project</a>
+    <h3>or</h3>
+    <a href="{% url 'blogs:api_POST_endpoint' %}">the POST endpoint of the project</a>
+
+    {% endblock content %}
+    <!-- or { % endblock % }, when there's only one block they're identical -->
+</body>
+</html>
